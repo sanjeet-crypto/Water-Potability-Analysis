@@ -4,7 +4,7 @@
 
 <h1 align='center'> Water-Potability-Analysis</h1>
 <p align='center'>
-<img src='http://ForTheBadge.com/images/badges/built-by-developers.svg'>&nbsp;<img src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
+<img src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
 </p>
 
 <p align='center'>
